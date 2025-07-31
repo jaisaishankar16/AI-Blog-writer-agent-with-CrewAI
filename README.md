@@ -2,7 +2,7 @@
 **AI Blog Content Generation System**
 
 # Problem Statement
-The project aims to develop a system that generates high-quality blog content on AI, ML, DL, and Data Science topics from YouTube videos.
+The project aims to develop a system that generates high-quality blog content on any topics from YouTube videos.
 
 # Dependencies and Requirements
 * **Python version**: 3.8 or higher
